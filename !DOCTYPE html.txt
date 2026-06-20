@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Productivity Monitoring System</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <!-- Left Side -->
+    <div class="left">
+
+        <div class="logo">
+            <div class="logo-box">
+                <h1>DP</h1>
+                <span>EDUCATION</span>
+            </div>
+        </div>
+
+        <h1 class="title">Productivity Monitoring System</h1>
+
+        <h3 class="subtitle">සිසු ඵලදායිතා පද්ධතිය</h3>
+
+        <h1 class="year">2026</h1>
+
+        <p class="description">
+            Empowering Students. Enhancing Productivity. Driving
+            measurable learning outcomes through structured monitoring.
+        </p>
+
+        <div class="campus">
+            <h3>DP Education IT Campus</h3>
+            <p>Learning & Development Platform</p>
+        </div>
+
+    </div>
+
+    <!-- Right Side -->
+    <div class="right">
+
+        <div class="login-box">
+
+            <h1>Welcome Back</h1>
+            <p>Sign in to continue your session</p>
+
+            <label>Outlook Email</label>
+            <input type="email" placeholder="Enter your email">
+
+            <label>PC ID</label>
+            <input type="text" placeholder="Enter your PC ID">
+
+            <button>SIGN IN</button>
+
+            <small>Contact your instructor if you have issues logging in</small>
+
+        </div>
+
+    </div>
+
+</div>
+
+</body>
+</html>
